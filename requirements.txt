@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-nmap
+pydantic
+pytest
+# scapy (optional, needed for advanced packet work)
+# scapy
